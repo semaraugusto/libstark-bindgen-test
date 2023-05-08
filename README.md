@@ -7,6 +7,7 @@ This repo is a binding for the BairWitness (https://github.com/elibensasson/libS
 For running the code you need libSTARK cloned and compiled at the same parent folder as this one, like shown below
 
 ├── libSTARK
+
 ├── libstark-bindgen-test
 
 Once this is the case you can just run `cargo build` and `cargo test`. Rust's build process should take care of the library linking process
